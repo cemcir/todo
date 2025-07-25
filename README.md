@@ -4,6 +4,7 @@
 ## Özellikler
    
     Kullanıcı Kayıt İşlemleri ve Login (CRUD)
+    Görev Takip İşlemi İçin CRUD işlmi ve Kullnıcıya Görevin Atanaması
     Entity Framework Core İle Verilerin Alınması ve Linq Sorguları
     Restful Apı Mimarisi
     Swagger/OpenAI Dökümantasyonu 
@@ -12,7 +13,7 @@
    
     Asp.net Core 8
     Entity FrameWork Core Code First
-    MySQL (Pomelo) Kütüphanesi 
+    MySQL
     Swagger
     AutoMapper
     DependencyInjection
