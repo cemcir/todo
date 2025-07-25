@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Win11\\Source\\Repos\\Todo\\WebAPI\\WebAPI.csproj": {}
+    "C:\\xampp\\htdocs\\todo\\Todo\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Win11\\Source\\Repos\\Todo\\Business\\Business.csproj": {
+    "C:\\xampp\\htdocs\\todo\\Todo\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\todo\\Todo\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Business\\Business.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Win11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Business\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\todo\\Todo\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj"
+              "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj"
               },
-              "C:\\Users\\Win11\\Source\\Repos\\Todo\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\DataAccess\\DataAccess.csproj"
+              "C:\\xampp\\htdocs\\todo\\Todo\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Win11\\Source\\Repos\\Todo\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Entities\\Entities.csproj"
+              "C:\\xampp\\htdocs\\todo\\Todo\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Entities\\Entities.csproj"
               }
             }
           }
@@ -101,14 +101,14 @@
         }
       }
     },
-    "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj": {
+    "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Win11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\todo\\Todo\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -208,14 +208,14 @@
         }
       }
     },
-    "C:\\Users\\Win11\\Source\\Repos\\Todo\\DataAccess\\DataAccess.csproj": {
+    "C:\\xampp\\htdocs\\todo\\Todo\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win11\\Source\\Repos\\Todo\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\todo\\Todo\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Win11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\DataAccess\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\todo\\Todo\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -236,11 +236,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj"
+              "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj"
               },
-              "C:\\Users\\Win11\\Source\\Repos\\Todo\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Entities\\Entities.csproj"
+              "C:\\xampp\\htdocs\\todo\\Todo\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Entities\\Entities.csproj"
               }
             }
           }
@@ -306,14 +306,14 @@
         }
       }
     },
-    "C:\\Users\\Win11\\Source\\Repos\\Todo\\Entities\\Entities.csproj": {
+    "C:\\xampp\\htdocs\\todo\\Todo\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\todo\\Todo\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Entities\\Entities.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Win11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Entities\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\todo\\Todo\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -334,8 +334,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj"
+              "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj"
               }
             }
           }
@@ -381,14 +381,14 @@
         }
       }
     },
-    "C:\\Users\\Win11\\Source\\Repos\\Todo\\WebAPI\\WebAPI.csproj": {
+    "C:\\xampp\\htdocs\\todo\\Todo\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win11\\Source\\Repos\\Todo\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\todo\\Todo\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Win11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\WebAPI\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\todo\\Todo\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -409,17 +409,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Win11\\Source\\Repos\\Todo\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Business\\Business.csproj"
+              "C:\\xampp\\htdocs\\todo\\Todo\\Business\\Business.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Business\\Business.csproj"
               },
-              "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj"
+              "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj"
               },
-              "C:\\Users\\Win11\\Source\\Repos\\Todo\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\DataAccess\\DataAccess.csproj"
+              "C:\\xampp\\htdocs\\todo\\Todo\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Win11\\Source\\Repos\\Todo\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Entities\\Entities.csproj"
+              "C:\\xampp\\htdocs\\todo\\Todo\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Entities\\Entities.csproj"
               }
             }
           }

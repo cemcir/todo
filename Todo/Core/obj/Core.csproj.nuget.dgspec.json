@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj": {}
+    "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj": {
+    "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\Core.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\todo\\Todo\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Win11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Core\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\todo\\Todo\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K1NAXnjQF2I=",
+  "dgSpecHash": "QJjLDsL+7Gg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win11\\Source\\Repos\\Todo\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\todo\\Todo\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win11\\.nuget\\packages\\autofac\\8.2.0\\autofac.8.2.0.nupkg.sha512",
     "C:\\Users\\Win11\\.nuget\\packages\\autofac.extensions.dependencyinjection\\10.0.0\\autofac.extensions.dependencyinjection.10.0.0.nupkg.sha512",
