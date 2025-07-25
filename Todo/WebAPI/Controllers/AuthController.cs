@@ -31,7 +31,7 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-        //[Authorize(Roles="Admin")]
+        [Authorize]
         [HttpPost]
         public IActionResult Add(UserAddDto userAddDto)
         {
@@ -42,7 +42,7 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-        //[Authorize(Roles="Admin")]
+        [Authorize]
         [HttpGet]
         public IActionResult GetAll()
         {

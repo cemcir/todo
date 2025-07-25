@@ -1,5 +1,6 @@
 ﻿using Business.Abstract;
 using Entities.DTOs.Todos;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,6 +17,7 @@ namespace WebAPI.Controllers
             _todoService = todoService;
         }
 
+        [Authorize]
         [HttpPost]
         public IActionResult Add(TodoAddDto todoAddDto)
         {
@@ -27,6 +29,7 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
+        [Authorize]
         [HttpGet]
         public IActionResult GetAll()
         {
@@ -38,6 +41,7 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
+        [Authorize]
         [HttpGet("{taskId}")]
         public IActionResult Get(int taskId)
         {
@@ -50,7 +54,7 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-
+        [Authorize]
         [HttpPut("{taskId}")]
         public IActionResult Update(int taskId, [FromBody] TodoUpdateDto todoUpdateDto)
         {
@@ -64,7 +68,7 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-
+        [Authorize]
         [HttpDelete("{taskId}")]
         public IActionResult Delete(int taskId)
         {
